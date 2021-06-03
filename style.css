@@ -1,5 +1,8 @@
 .backgroundall {
-  background-color: #f0f0f0;
+  background-color: #727272;
+}
+.herobackground img{
+  width: 100%;
 }
 
 #hero {
@@ -11,6 +14,7 @@
 }
 .card {
   background-color: #dadada;
+  margin: 30px;
 }
 
 .card-img-top {
